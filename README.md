@@ -71,7 +71,7 @@ This repository contains 20 annotated datasets of Automatic Keyphrase Extraction
 
 **Cite**: [Human-competitive Tagging Using Automatic Keyphrase Extraction](https://dl.acm.org/citation.cfm?id=1699678)
 
-**Description**: The citeulike180 dataset is based on CiteULike.org platform which organizes academic citations. The CiteULike.org corpus is a full-text paper collection freely available that contains information about the users who tagged the documents. The dataset is based on a subset of CiteULike.org containing documents that have been indexed with at least three keywords on which at least two users have agreed. As well as filtering the document set, the dataset only considers annotators who have at least two additional co-annotators tagging the same common document. The result is a set of 180 documents indexed by 332 taggers, where most documents are related to the area of bioinformatics.
+**Description**: The citeulike180 dataset is based on CiteULike.org platform which organizes academic citations. The CiteULike.org corpus is a full-text paper collection freely available that contains information about the users who tagged the documents. The dataset is based on a subset of CiteULike.org containing documents that have been indexed with at least three keywords on which at least two users have agreed. As well as filtering the document set, the dataset only considers annotators who have at least two additional co-annotators tagging the same common document. The result is a set of 180 documents indexed with 946 tags by 332 taggers averaging five tags per document, where most documents are related to the area of bioinformatics. 
 
 ---
 
